@@ -20,6 +20,6 @@ TBD
 
 ## Update History
 
-### V 0.4.0.1: @20200804
+### V0.4.0.1: @20200804
 
 1. Pre-release

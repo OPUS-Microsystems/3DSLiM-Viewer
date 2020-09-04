@@ -22,6 +22,12 @@ TBD
 
 ## Update History
 
+### V0.4.0.2: @20200902
+
+1. Improve stability
+
+   
+
 ### V0.4.0.1: @20200804
 
 1. Pre-release

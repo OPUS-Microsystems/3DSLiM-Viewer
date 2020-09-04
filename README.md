@@ -22,7 +22,7 @@ TBD
 
 ## Update History
 
-### V0.4.0.2: @20200902
+### V0.4.0.2: @20200904
 
 1. Improve stability
 
